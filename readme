@@ -1,4 +1,4 @@
-If you are farmiliar with cpp programing under android, then you may want't the basic libraries are available even you are not coding under android enviroment.
+If you are farmiliar with cpp programing under android, then you may hope that the android basic libraries are available even you are not coding under android enviroment.
 So this library is for you, it extracts most of the basic android cpp class including RefBase, StrongPoint, Thread, List, ALooper and so on. You can resue them by link this library which I name it 'androidbase'.
 
 --- by Yang Xudong
